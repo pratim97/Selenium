@@ -7,4 +7,3 @@ driver = webdriver.Chrome(service=se)
 url='http://demostore.supersqa.com'
 driver.get(url)
 
-#codes for git
