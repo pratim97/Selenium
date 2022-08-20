@@ -7,4 +7,3 @@ driver = webdriver.Chrome(service=se)
 url='http://demostore.supersqa.com'
 driver.get(url)
 
-#i am learning selenium and git, next lets do the testing concepts revision
